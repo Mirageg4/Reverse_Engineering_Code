@@ -8,21 +8,43 @@ Mirageg4
 Reverse engineer existing code
 
 # Table of Contents
-Installation Instructions
+**config folder**
 
-Application Instructions
+config.json
+isAuthenticated.js
+passport.js
+package.json
 
-Project Licenses
+**models folder**
 
-Additional Contributions
+index.js
+user.js
 
-Project Testing
+**public folder**
 
-Project email
+login.js
+members.js
+signup.js
+login.html
+members.html
+signup.html
+style.css
+
+**routes folder**
+
+api-routes.js
+html-routes.js
+server.js
+
+
+
+
+
 
 
 
 # Application Use Instructions
+
 https://drive.google.com/drive/folders/1mC6LRfxm_Uq4bjBPKr7Kp1vAhWzFE5Np
 
 # Github Repo

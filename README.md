@@ -5,7 +5,7 @@ Mirageg4
 
 
 # Description
-Reverse engineer existing code
+Reverse engineer the existing code in the application to explain what tasks the code is performing in order for the application to run. 
 
 # Table of Contents
 **config folder**
@@ -36,22 +36,20 @@ api-routes.js
 html-routes.js
 server.js
 
+# Application Modifications
 
+Variable Declarations should be updated to ES6
 
+# Reverse Engineering Application Explanation 
 
-
-
-
-
-# Application Use Instructions
-
-https://drive.google.com/drive/folders/1mC6LRfxm_Uq4bjBPKr7Kp1vAhWzFE5Np
+<p>Google Doc Link: <a href="https://docs.google.com/document/d/1bJau3r3197v1ql1DxrrTbBbs7-zeJe_v-nBLOVd-_QU/edit?usp=sharing">Reverse Engineering Document</a>
 
 # Github Repo
-https://github.com/Mirageg4/Reverse_Engineering_Code
+<p>Github: <a href="https://github.com/Mirageg4/Reverse_Engineering_Code">Reverse Engineering</a>
 
 # Project Licenses
-MIT
+<p>License: Project is licensed under the MIT License. 
+See <a href ="https://www.mit.edu/~amini/LICENSE.md">LICENSE</a> file for details.
 
 # Additional Contributions
 None at this time

@@ -5,7 +5,7 @@ Mirageg4
 
 
 # Description
-Reverse engineer the existing code in the application to explain what tasks the code is performing in order for the application to run. 
+Reverse engineer the existing code in the application to explain the tasks the code is performing, in order for the application to run. 
 
 # Table of Contents
 **config folder**
